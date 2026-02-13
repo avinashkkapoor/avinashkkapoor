@@ -18,7 +18,7 @@ I am Avinash, a Full Stack Java developer with expertise in building scalable, r
 
 ## 📫 Contact & Links
 - **GitHub:** https://github.com/avinashkkapoor
-- **LinkedIn:** [Add your LinkedIn URL here]
+- **LinkedIn:** https://www.linkedin.com/in/avinash-kapoor-84858649/
 
 
 ## 🔎 Keywords
